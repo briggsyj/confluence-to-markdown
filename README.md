@@ -1,6 +1,9 @@
 # Confluence to Markdown converter
 (that works right now but probably not in a few months time, but if you tell us we'll fix it!)
 
+## Recommendation
+Outline Wiki has a rather good Confluence HTML import and supports exporting to markdown. Rather than using _this_ project, it is possible to get a higher quality conversion to markdown by self-hosting an Outline Wiki, importing from COnfluence HTML and bulk exporting to Markdown. [Link to Outline Docs](https://docs.getoutline.com/s/guide/doc/confluence-import-UGCiYLYgBd)
+
 ## Requirements
 
 ### You will require a HTML export of the Confluence space using the default Confluence export tool. This is found at:
